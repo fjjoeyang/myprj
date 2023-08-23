@@ -3,5 +3,5 @@ this is a book 2! 福州 superstar
 this is a book 3!
 this is a book 4! 厦门
 this is a book 5!
-this is a book 6!
+this is a book 6! 南平
 this is a book 7!
